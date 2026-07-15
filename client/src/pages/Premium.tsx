@@ -19,7 +19,7 @@ export default function Premium() {
       <div className="max-w-2xl mx-auto space-y-8">
         {/* ヘッダー */}
         <div className="text-center space-y-2">
-          <h1 className="text-3xl font-bold text-gray-900">プレミアム機能</h1>
+          <h1 className="text-3xl font-bold text-gray-900">月音香 プレミアム機能</h1>
           <p className="text-gray-600">さらに詳しい分析とアドバイスを受けましょう</p>
         </div>
 

@@ -32,7 +32,7 @@ export default function Result() {
       <div className="max-w-2xl mx-auto space-y-8">
         {/* ヘッダー */}
         <div className="text-center space-y-2">
-          <h1 className="text-3xl font-bold text-gray-900">診断結果</h1>
+          <h1 className="text-3xl font-bold text-gray-900">月音香診断結果</h1>
           <p className="text-gray-600">あなたの心の状態が分かりました</p>
         </div>
 

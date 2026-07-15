@@ -8,7 +8,7 @@ export default function Onboarding() {
     <div className="min-h-screen bg-gradient-to-b from-purple-50 to-white flex flex-col items-center justify-center px-4">
       <div className="max-w-md text-center space-y-6">
         <div className="text-6xl mb-4">🌙</div>
-        <h1 className="text-4xl font-bold text-gray-900">月猫診断</h1>
+        <h1 className="text-4xl font-bold text-gray-900">月音香診断</h1>
         <p className="text-lg text-gray-600">
           あなたの心の状態を診断します。15の質問に答えることで、あなたの気質と今の心の乱れが分かります。
         </p>
